@@ -1,6 +1,6 @@
-# DOWNLOAD EDUMALL
+# DOWNLOAD KYNA
 
-Download Edumall là ứng dụng đơn giản giúp tải các video trên [kyna.vn](https://kyna.vn/)
+Download Kyna là ứng dụng đơn giản giúp tải các video trên [kyna.vn](https://kyna.vn/)
 
 ![](img/Image_001.png)
 
