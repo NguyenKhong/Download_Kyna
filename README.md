@@ -1,11 +1,11 @@
 # DOWNLOAD EDUMALL
 
-Download Edumall là ứng dụng đơn giản giúp tải các video trên [edumall.vn](https://edumall.vn/)
+Download Edumall là ứng dụng đơn giản giúp tải các video trên [kyna.vn](https://kyna.vn/)
 
 ![](img/Image_001.png)
 
 # Hướng dẫn sử dụng:
-## 1. Link tải: [Tải](https://github.com/NguyenKhong/Download_Edumall/raw/master/exe/DownloadEdumall.exe)
+## 1. Link tải: [Tải](https://github.com/NguyenKhong/Download_Kyna/raw/master/exe/DownloadKyna.exe)
 ## 2. Các tính năng:
 * Tải video các khóa học hiện đang có trong tài khoản.
 * Tải các khóa giải mã các tệp tin video khi có vấn đề.
@@ -20,7 +20,7 @@ Download Edumall là ứng dụng đơn giản giúp tải các video trên [edu
 * Tiếp theo nhập số luồng tải về cùng lúc. Mặc định bỏ trống và enter là 5 luồng.( *Lời khuyên tùy vào tốc độ mạng mà chọn số luồng phù hợp, và số luồng nên <= 10*)
 * Chuyển các tệp ts về dạng mp4. Mặc định bỏ trống và enter là đồng ý. Ví dụ: Y, N, yes, no.
 ![](img/Image_003.png)
-* Quá trình tải mất từ vài phút đến hàng giờ tùy vào từng khóa học, có bao gồm việc tải các tệp tin đính kèm ở mỗi bài học. Sau khi tải các file ts sẽ được ghép lại thành mp4 và lưu trong thư mục với cấu trúc sau:
+* Quá trình tải mất từ vài phút đến hàng giờ tùy vào từng khóa học, **không** bao gồm việc tải các tệp tin đính kèm ở mỗi bài học. Sau khi tải các file ts sẽ được ghép lại thành mp4 và lưu trong thư mục với cấu trúc sau:
 ![](img/Image_004.png)
 
 ### 2.2 Tải các khóa giải mã các tệp tin video khi có vấn đề.
@@ -40,7 +40,7 @@ Download Edumall là ứng dụng đơn giản giúp tải các video trên [edu
 * Chọn 5, Enter.
 * Lựa chọn duy nhất 1 khóa học.
 * Lựa chọn tải về 1 hoặc nhiều bài giảng. Mặc định bỏ trống và enter thì sẽ tải về hết. Ví dụ: 1 hoặc 3, 5 hoặc 1-10. 
-![](img/Image_005.png)
+
 ## 3. Lưu ý:
 * Sau khi tải về các bài giảng, vào các thư mục **DOWNLOAD/Tên khóa học/Complete/** để lấy các video bài giảng và các tệp đính kèm.
-* Cùng thư mục với phần mềm, khi phần mềm chạy sẽ phát sinh tệp **DownloadEdumall.log**, sau khi tải xong thì mở tệp này và xem có thông báo nào không, nếu có **WARNING, ERROR, CRITICAL** copy chúng và đưa cho nhà phát triển để cải thiện sản phẩm.
+* Cùng thư mục với phần mềm, khi phần mềm chạy sẽ phát sinh tệp **DownloadKyna.log**, sau khi tải xong thì mở tệp này và xem có thông báo nào không, nếu có **WARNING, ERROR, CRITICAL** copy chúng và đưa cho nhà phát triển để cải thiện sản phẩm.
