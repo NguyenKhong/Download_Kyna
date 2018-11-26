@@ -20,7 +20,7 @@ Download Edumall là ứng dụng đơn giản giúp tải các video trên [kyn
 * Tiếp theo nhập số luồng tải về cùng lúc. Mặc định bỏ trống và enter là 5 luồng.( *Lời khuyên tùy vào tốc độ mạng mà chọn số luồng phù hợp, và số luồng nên <= 10*)
 * Chuyển các tệp ts về dạng mp4. Mặc định bỏ trống và enter là đồng ý. Ví dụ: Y, N, yes, no.
 ![](img/Image_003.png)
-* Quá trình tải mất từ vài phút đến hàng giờ tùy vào từng khóa học, có bao gồm việc tải các tệp tin đính kèm ở mỗi bài học. Sau khi tải các file ts sẽ được ghép lại thành mp4 và lưu trong thư mục với cấu trúc sau:
+* Quá trình tải mất từ vài phút đến hàng giờ tùy vào từng khóa học, **không** bao gồm việc tải các tệp tin đính kèm ở mỗi bài học. Sau khi tải các file ts sẽ được ghép lại thành mp4 và lưu trong thư mục với cấu trúc sau:
 ![](img/Image_004.png)
 
 ### 2.2 Tải các khóa giải mã các tệp tin video khi có vấn đề.
