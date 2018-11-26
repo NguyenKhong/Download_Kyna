@@ -42,9 +42,6 @@ logger.addHandler(stdout_logger)
 logger.addHandler(file_logger)
 logger.setLevel(logging.INFO)
 
-#tailieukhoa2017@gmail.com
-#ninh1234
-
 def NoAccentVietnamese(s):
     s = s.decode('utf-8')
     s = re.sub(u'Đ', 'D', s)
